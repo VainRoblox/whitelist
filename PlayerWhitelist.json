@@ -1,7 +1,7 @@
 {
 	"WhitelistedUsers": {
 		"dc487af8ba4bf968e396777a2d85ca881e17a70bdc0c70becf07c37b7da28bafb4b1d66d0eca145bf568f2b12038e0525a262d6b94fdb8f4ade4412a42c460f4": {
-			"hash": "36eb4ffebeff8636ab678d9e1fcdcfad9b08bca167f3f101c60bafdd4c8e8d4c3fba29421e72733a5d10d2dc19b371ea9357be96833c67a4dc0afb7a0c927349",
+			"hash": "be0d92f338406dd2ac6e2a0caf9742c3fccdc3d8abdfcbd8ab7f9bbe66097dfd6ea2c43d91a4edd9a57c7895405b0b1f70cf119f5556a11f9ed71c08f0ad9975",
 			"level": 3,
 			"attackable": false,
 			"tags": [
