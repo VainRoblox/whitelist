@@ -1,0 +1,10 @@
+{
+	"WhitelistedUsers": {},
+	"BlacklistedUsers": {},
+	"Announcement": {
+		"text": "",
+		"expiretime": 0,
+		"targets": "all"
+	},
+	"KillVain": false
+}
